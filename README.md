@@ -1,2 +1,0 @@
-# minatsu
-a
